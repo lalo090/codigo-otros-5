@@ -1,3 +1,8 @@
+//el codigo toma un numero seleccionado por el usuario y ve cuantos son del numero 3,7,8 o 9
+//compara cuantos numeros afortunados y cuantos numeros no afortunados
+// tiene el numero del usuario e imprime si es afortunado o no
+
+
 import java.util.Scanner;  //faltaba importar el scanner
 
 public class Codigo5 {
